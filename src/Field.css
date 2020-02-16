@@ -1,0 +1,26 @@
+.Field{
+    background-color: aqua;
+    /* width: 200px; */
+    display: flex;
+    align-items: center;
+}
+
+.Field-ele{
+    background-color:grey;
+    /* width: 800px; */
+    display: flex;
+    /* margin: 0 auto; */
+    float: none;
+    justify-content: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.Field-text-input{
+    background-color:grey;
+}
+.Field-button-send{
+    background-color: red;
+}
